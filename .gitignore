@@ -161,6 +161,7 @@ cython_debug/
 input_videos_zip
 input_videos
 footballvenv
+football-players-detection-1
 .DS_Store
 runs
 yolov8x.pt
