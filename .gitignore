@@ -165,3 +165,4 @@ football-players-detection-1
 .DS_Store
 runs
 yolov8x.pt
+models

@@ -4,7 +4,7 @@
 [kaggle Dataset](https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout/data?select=clips)
 [Robowflow Football Dataset](https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc/dataset/1)
 [YOLO8 Github](https://https://github.com/ultralytics/ultralytics)
-
+[OpenCV installatio](https://pypi.org/project/opencv-python/)
 
 ### How to run:
 
